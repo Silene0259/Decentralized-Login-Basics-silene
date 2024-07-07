@@ -2,7 +2,17 @@
 
 **Brand Name (of projects currently being developed):** `slinky`, `sumatra`, `yugen`, `nightshade`, `shativira`
 
+**Author:** `silene0259`
+
+**Date:** 6 July 2024
+
 This repository contains information related to creating a decentralized login system. It was created by `silene0259` and is part of a group of ongoing projects. This information is free-to-use and for research/academic purposes. This is currently being developed under the names `Slinky` and `Sumatra` and I am actively looking for open-source contributors.
+
+## Contribution
+
+If you would like to contribute or work on code, email me at `silene0259@gmail.com`.
+
+I am currently looking for all sorts of developers.
 
 ## Description
 
@@ -72,9 +82,9 @@ There exists a `Pivot Point` that is the main pivot. A block lattice is construc
 3. A send is sent to the address that the user wants the domain space on. The Pivot Point Address (PPA) can choose whether they want to accept it or deny it while still maintaining the order of the chain even if it is out of order.
 4. When the send block is received and signed by the pivot point address, it is then validated as a legitimate domain. It can be accessed through integer or through its domain space.
 
-## Decentralized Bot Detection
+## Decentralized Captcha (0x0002)
 
-A simple, decentralized captcha can be created by having a current login state chain
+A simple, decentralized captcha can be created by having a current login state chain and having the user complete proof-of-work using the current login state.
 
 ---
 
